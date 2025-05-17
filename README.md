@@ -141,4 +141,3 @@ Topics: aws, s3, lambda, glue, athena, quicksight, serverless, data-cleaning, pa
 
 ---
 
-Let me know if you want a license (MIT), architecture image, or GitHub Actions added!
